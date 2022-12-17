@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maiboroda_11.1_Var-3", "Maiboroda_11.1_Var-3\Maiboroda_11.1_Var-3.csproj", "{1869BC53-7016-47B4-A5CB-BC6DBC29E172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1869BC53-7016-47B4-A5CB-BC6DBC29E172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1869BC53-7016-47B4-A5CB-BC6DBC29E172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1869BC53-7016-47B4-A5CB-BC6DBC29E172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1869BC53-7016-47B4-A5CB-BC6DBC29E172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD053EF-2280-4D5B-A109-CE7214DC4499}
+	EndGlobalSection
+EndGlobal
